@@ -1,2 +1,3 @@
-# 3D-printed-SATA-SSD-case
-A simple case made for 2.5-inch SATA SSDs
+# 3D Printed SATA SSD Case
+	A simple case made for 2.5-inch SATA SSDs
+Download the stl file and print!
